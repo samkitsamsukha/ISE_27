@@ -6,4 +6,4 @@ langchain.vectorstores
 langchain_google_genai
 langchain.chains.question_answering
 langchain.prompts
-dotenv
+python-dotenv
